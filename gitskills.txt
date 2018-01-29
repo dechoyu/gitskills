@@ -1,2 +1,4 @@
 creat a new branch is quick.
-hello,gi
+hello,git
+dechoyu,there are many things you should learn, fighting!
+
